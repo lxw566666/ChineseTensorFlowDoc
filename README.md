@@ -52,6 +52,7 @@ TensorFlow2中文文档
    - [梯度带](梯度带.ipynb)
    - [训练循环](训练循环.ipynb)
    - [模块-层-模型简介](模块-层-模型简介.ipynb)
+   - [高阶自动微分](高阶自动微分.ipynb)
 3. 杂项
    - [Tensorflow2变化和最佳实践](Tensorflow2变化和最佳实践.ipynb)
 ## 待翻译
