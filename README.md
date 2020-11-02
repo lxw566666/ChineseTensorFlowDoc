@@ -54,6 +54,7 @@ TensorFlow2中文文档
    - [模块-层-模型简介](模块-层-模型简介.ipynb)
    - [高阶自动微分](高阶自动微分.ipynb)
 3. 杂项
+   - [tf.data构建输入管道](tf.data构建输入管道.ipynb)
    - [Tensorflow2变化和最佳实践](Tensorflow2变化和最佳实践.ipynb)
 ## 待翻译
 - [ ] [TF.Text](https://tensorflow.google.cn/tutorials/tensorflow_text/intro)
