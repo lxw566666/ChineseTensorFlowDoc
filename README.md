@@ -17,6 +17,7 @@ TensorFlow2中文文档
    - [文本数据加载](使用tf.data加载文本数据.ipynb)
    - [图像加载](使用tf.data加载图片.ipynb)
    - [Pandas数据加载](pandas数据加载.ipynb)
+   - [处理TFRecord和tf.Example](处理TFRecord和tf.Example.ipynb)
 4. 文本处理
    - [词嵌入](词嵌入.ipynb)
    - [使用RNN进行文本分类](使用RNN文本分类.ipynb)
