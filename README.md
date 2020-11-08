@@ -54,6 +54,7 @@ TensorFlow2中文文档
    - [张量](TensorFlow张量.ipynb)
    - [变量](TensorFlow变量.ipynb)
    - [梯度带](梯度带.ipynb)
+   - [图和函数简介](图和函数简介.ipynb)
    - [训练循环](训练循环.ipynb)
    - [模块-层-模型简介](模块-层-模型简介.ipynb)
    - [高阶自动微分](高阶自动微分.ipynb)
