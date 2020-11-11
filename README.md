@@ -31,10 +31,11 @@ TensorFlow2中文文档
    - [自定义训练例子](自定义训练例子.ipynb)
 6. 生成
    - [深度卷积生成对抗网络DCGAN](深度卷积生成对抗网络.ipynb)
-   - [自编码器简介](自编码器简介.ipynb)
-   - [卷积变分自编码器](卷积变分自编码器.ipynb)
    - [Pix2Pix](pix2pix.ipynb)
    - [CycleGAN](cyclegan.ipynb)
+   - [自编码器简介](自编码器简介.ipynb)
+   - [卷积变分自编码器](卷积变分自编码器.ipynb)
+   - [对抗FGSM](对抗FGSM.ipynb)
 7. 图像
    - [卷积网络](卷积网络.ipynb)
 ## 指南目录
