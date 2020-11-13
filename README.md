@@ -62,6 +62,7 @@ TensorFlow2中文文档
    - [高阶自动微分](高阶自动微分.ipynb)
 3. 保存模型
    - [操作检查点](checkpoint.ipynb)
+   - [使用saved_model格式](saved_model.ipynb)
 4. 杂项
    - [tf.data构建输入管道](tf.data构建输入管道.ipynb)
    - [Tensorflow2变化和最佳实践](Tensorflow2变化和最佳实践.ipynb)
