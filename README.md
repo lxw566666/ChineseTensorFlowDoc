@@ -54,7 +54,7 @@ TensorFlow2中文文档
 2. TensorFlow低层
    - [即刻执行](即刻执行.ipynb)
    - [张量](TensorFlow张量.ipynb)
-   - [变量](TensorFlow变量.ipynb)
+   - [变量](variable.ipynb)
    - [梯度带](梯度带.ipynb)
    - [图和函数简介](图和函数简介.ipynb)
    - [训练循环](训练循环.ipynb)
